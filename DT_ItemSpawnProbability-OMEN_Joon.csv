@@ -1,0 +1,16 @@
+---,PickupSpawnClass,SpawnProbability,ItemRarity
+Coin_Red,/Game/BP/Pickups/BP_Coin_Red.BP_Coin_Red_C,0.005,Legendary
+Key_Gold,/Game/BP/Pickups/BP_Key_Gold.BP_Key_Gold_C,0.005,Legendary
+HealthRegen,/Game/BP/Pickups/BP_Ability_HealthRegen.BP_Ability_HealthRegen_C,0.01,Legendary
+SuperSpeed,/Game/BP/Pickups/BP_Ability_SuperSpeed.BP_Ability_SuperSpeed_C,0.03,Legendary
+DoubleJump,/Game/BP/Pickups/BP_Ability_DoubleJump.BP_Ability_DoubleJump_C,0.05,Legendary
+Coin_Gold,/Game/BP/Pickups/BP_Coin_Gold.BP_Coin_Gold_C,0.15,Rare
+HealthPack_RISKY,/Game/BP/Pickups/BP_HealthPack_RISKY.BP_HealthPack_RISKY_C,0.2,Rare
+HealthPack_LG,/Game/BP/Pickups/BP_HealthPack_LG.BP_HealthPack_LG_C,0.25,Rare
+Coin_Silver,/Game/BP/Pickups/BP_Coin_Silver.BP_Coin_Silver_C,0.5,Uncommon
+HealthPack_MED,/Game/BP/Pickups/BP_HealthPack_MED.BP_HealthPack_MED_C,0.5,Common
+HealthPack_SM,/Game/BP/Pickups/BP_HealthPack_SM.BP_HealthPack_SM_C,0.75,Common
+Key_Blue,/Game/BP/Pickups/BP_Key_Blue.BP_Key_Blue_C,0.8,Common
+Key_Green,/Game/BP/Pickups/BP_Key_Green.BP_Key_Green_C,0.8,Common
+Key_Red,/Game/BP/Pickups/BP_Key_Red.BP_Key_Red_C,0.8,Common
+Coin_Copper,/Game/BP/Pickups/BP_Coin_Copper.BP_Coin_Copper_C,0.9,Common
